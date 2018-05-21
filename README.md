@@ -11,10 +11,14 @@ How to use it?
 
 
 Before:
+
 ![Before](https://github.com/alongL/Notepad_Plus_Plus_toolBar_theme/blob/master/1.png?raw=true)
 
 After:
+
 ![After](https://github.com/alongL/Notepad_Plus_Plus_toolBar_theme/blob/master/2.png?raw=true)
+
+
 
 
 Rerference:
