@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<NotepadPlus>
+	<ToolBarIcons>
+	<Theme name="Along" pathPrefix=".\toolBarIcons\">
+		<Icon name="docMap" id="22">
+			<normal>docMap_off.ico</normal>
+			<hover>docMap_on.ico</hover>
+			<disabled>docMap_off.ico</disabled>
+		</Icon>
+		<Icon name="functionlist" id="23">
+			<normal>funcList_off.ico</normal>
+			<hover>funcList_on.ico</hover>
+			<disabled>funcList_off.ico</disabled>
+		</Icon>
+		<Icon name="fileBroswer" id="24">
+			<normal>fileBrowser_off.ico</normal>
+			<hover>fileBrowser_on.ico</hover>
+			<disabled>fileBrowser_off.ico</disabled>
+		</Icon>	
+		<Icon name="monitoring" id="25">
+			<normal>monitoring_off.ico</normal>
+			<hover>monitoring_on.ico</hover>
+			<disabled>monitoring_off.ico</disabled>
+		</Icon>	
+	</Theme>
+	</ToolBarIcons>
+</NotepadPlus>
