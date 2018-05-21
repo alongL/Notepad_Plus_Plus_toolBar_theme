@@ -18,6 +18,7 @@ After:
 
 
 Rerference:
+
 1.http://docs.notepad-plus-plus.org/index.php/Toolbar_Customisation
 
 2.https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/src/toolbarIcons.xml
